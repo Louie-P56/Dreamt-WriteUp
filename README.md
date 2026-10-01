@@ -1,6 +1,6 @@
 # Dreamt — security & privacy write-up
 
-A threat model and self-audit of **Dreamt**, an iOS dream journal I helped build. This repository is the security documentation, not the source.
+A threat model and self-audit of **Dreamt**, an iOS dream journal I built. This repository is the security documentation, not the source.
 
 **→ [Read the threat model](THREAT-MODEL.md)**
 
